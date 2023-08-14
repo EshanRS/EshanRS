@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/eshanratnesh" target="blank"><img src="https://img.shields.io/twitter/follow/eshanratnesh?logo=twitter&style=for-the-badge" alt="eshanratnesh" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
 
