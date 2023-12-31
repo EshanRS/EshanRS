@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
 
-- 📫 How to reach me **eshan.ratnesh2021@vitstudent.ac.in**
+- 📫 How to reach me **workwitheshansri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
